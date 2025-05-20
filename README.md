@@ -43,6 +43,7 @@ We use the benchmark dataset from [Ott et al. (2013)](http://myleott.com/op-spam
 
 ---
 ## Project Structure
+```
 ├── DataSet/ # Contains the original dataset files
 │ └── review_data_shuffled # Main shuffled dataset used in training
 ├── processed_data.csv # Preprocessed version of the dataset
@@ -52,7 +53,7 @@ We use the benchmark dataset from [Ott et al. (2013)](http://myleott.com/op-spam
 ├── README.md
 ├── notebooks/
 │ ├── Fake online review classification Initial Data Processing.ipynb (The main file to run run the code)
-
+```
 
 ## 🧑‍💻 Authors
 Rakibul Hassan — rakibul.hassan@ece.ruet.ac.bd
