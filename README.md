@@ -20,7 +20,7 @@ We use the benchmark dataset from [Ott et al. (2013)](http://myleott.com/op-spam
 - 800 deceptive (fake) reviews  
 - Balanced across positive/negative sentiment
 
-> ⚠️ Dataset is not included. Please download it from [here](http://myleott.com/op-spam.html).
+Please download it from [here](http://myleott.com/op-spam.html).
 
 ---
 
