@@ -52,7 +52,7 @@ Please download it from [here](http://myleott.com/op-spam.html).
 ├── LICENSE
 ├── README.md
 ├── notebooks/
-│ ├── Fake online review classification Initial Data Processing.ipynb (The main file to run run the code)
+│ ├── Sentiment_Analysis_Fake_Review_Detection.ipynb (The main file to run run the code)
 ```
 
 ## 🧑‍💻 Authors
